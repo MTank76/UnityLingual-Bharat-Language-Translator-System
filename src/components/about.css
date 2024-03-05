@@ -1,0 +1,47 @@
+.text_about {
+    color: white;
+    font-family: "Courier";
+    font-size: 50px;
+    margin: 10px 0 0 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 12em;
+    animation: type 4s steps(60, end);
+    animation-iteration-count: infinite;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    font-weight: bolder;
+
+}
+
+
+.container_about {
+    display: flex;
+    background-color: transparent;
+}
+
+.text_about {
+    padding: 70px 0;
+    /* border: 3px solid green; */
+    max-width: 59rem;
+    max-height: 11rem;
+    padding-top: 5rem;
+    padding-left: 4rem;
+    display: inline-block;
+}
+
+.image_about {
+
+    /* margin-left: 24rem; */
+    background-color: transparent;
+}
+
+
+
+.text2_about {
+    font-size: 20px;
+    padding-top: 0px;
+    padding-left: 5rem;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+}
